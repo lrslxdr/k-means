@@ -7,7 +7,7 @@ numpy 1.19.4
 matplotlib 3.3.3
 
 # 数据集简介
-所用数据集是uci机器学习数据库(http://archive.ics.uci.edu/ml/datasets.php)中的一个小麦种子数据集( http://archive.ics.uci.edu/ml/datasets/seeds),数据集文件为seeds_dataset.txt。
+所用数据集是uci机器学习数据库 (http://archive.ics.uci.edu/ml/datasets.php) 中的一个小麦种子数据集 (http://archive.ics.uci.edu/ml/datasets/seeds) ,数据集文件为seeds_dataset.txt。
 
 # 项目简介
 算法实现代码为k_means.py,data_reader.py用于读取数据，visualization.py用于数据可视化，将数据绘制成散点图。
